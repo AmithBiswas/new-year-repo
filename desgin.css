@@ -1,5 +1,5 @@
 header{
-    background-image:url('file:///C:/New%20year%202024/B9A1-New-Year-New-Mission/resources/Banner%20Image.png');
+    background-image:url('file:///C:/new%20year%20repo/resources/Banner%20Image.png');
     width: 1320px;
     height: 600px;
     flex-shrink: 0;
@@ -16,7 +16,7 @@ font-family: Merriweather;
 font-size: 72px;
 font-style: normal;
 font-weight: 900;
-line-height: 95px; /* 131.944% */
+line-height: 95px;
 
 }
 .party{
