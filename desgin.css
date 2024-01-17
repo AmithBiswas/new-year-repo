@@ -1,3 +1,325 @@
-h1{
-    background-color: red;
+header{
+    background-image:url('file:///C:/New%20year%202024/B9A1-New-Year-New-Mission/resources/Banner%20Image.png');
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    background-position: center;
+    
+   
+
 }
+
+.Happy{
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px; /* 131.944% */
+
+}
+.party{
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px; /* 131.944% */
+width: 632px;
+}
+.h1{
+    color:#F00;
+    text-align: center;
+    font-size:80px;
+
+}
+.holiday{
+color:#F00;
+text-align: center;
+font-size:25px;
+}
+.all{
+color:#070211;
+text-align: center;
+font-size:50px;
+}
+
+.image{
+    padding: 0px 0px 0px 400px;
+}
+.midnight{
+    background-image: url('file:///C:/New%20year%202024/B9A1-New-Year-New-Mission/resources/Vectorrr.png');
+    width: 1320px;
+height: 600px;
+background-position: center;
+}
+.welcome{
+    color:#FFF;
+    font-size:70px;
+    width: 642px;
+    padding: 230px 0px 0px 207px;
+    text-align: center;
+}
+.para{
+    color: rgb(230 234 167 / 80%);
+    width: 697px;
+}
+.join{
+    color:#b1f5dc;
+    font-size:30px;
+    padding:0 0 0 33px;
+  
+}
+.title{
+    height: 437px;
+    width: 613px;
+    background-color: #f1d6e6;
+    margin: 1px 0px 0px 487px;
+}
+}
+
+.place{
+color:#F00;
+text-align:center;
+font-size:25px;
+}
+.hotel{
+    font-size:25px;
+    text-align: center;
+    padding: 10px 0 0 0;
+}
+.button{
+    background-color: #F00;
+    height: 20px;
+    width: 74px;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 8px;
+    position:center;
+}
+.offer{
+color:#F00;
+font-size:20px;
+width:200px;
+line-height: 0;
+margin: 35px;
+padding: 1px;
+}
+.coming{
+color:|#070211;
+font-size:48px;
+width:300px;
+line-height: 0;
+margin: 35px;
+padding: 1px;
+
+}
+.head-title{
+    width: 393px;
+    font-size: 20px;
+    padding: 20px;
+    margin: 15px;
+    line-height: 1;
+}
+.title-image{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 50%;
+    border: 9px solid #F00;
+    margin: -226px 0px 0px 443px;
+}
+.content{
+    width: 800px;
+    height: 705px;   
+}
+.New-year{
+
+}
+.new-contact{
+    margin: -387px 0px 0px 958px;
+}
+.new-contact h1{
+    color:#F00;
+    font-size:40px;
+   
+}
+.new-contact p{
+  line-height:0.9;
+  
+}
+.what{
+font-size:24px;
+text-align: center;
+margin: 0px 0px -33px 0px;
+}
+.sale{
+    font-size:62px;
+    text-align: center;
+}
+.Holiday{
+    color:#F00;
+
+}
+.dolor{
+    font-size:20px;
+    width: 631px;
+    text-align: center;
+    margin:0 0 0 470px;
+}
+.red-image{
+     width: 300px;
+    margin: 0 1200px; 
+}
+.discount{
+    width: 200px;
+    margin: -200px 0px 0 1074px;
+}
+.flower{
+    margin: 0px 0px -186px -23px;
+}
+.best{
+    color: #F00;
+    margin: 20px;
+}
+.awesome{
+    margin:30px;
+}
+.margin{
+    width: 600px;
+}
+.store{
+ 
+    
+}
+.store-1{
+margin: 20px;
+padding:20px;
+width: 300px;
+}
+.store-2{
+    margin: 20px;
+    padding:20px;
+    width: 300px;
+    }
+    .store-3{
+        margin: 20px;
+        padding:20px;
+        width: 300px;
+      
+ }
+
+ .store-1:hover{
+border: 5px solid green;
+border-radius: 20px;
+ }
+
+ .store-2:hover{
+    border: 5px solid green;
+border-radius: 20px;
+ }
+
+ .store-3:hover{
+    border: 5px solid green;
+border-radius: 20px;
+ }
+ .store-4{
+    margin: 20px;
+    padding:20px;
+    width: 300px;
+ }
+
+ .store-5{
+    margin: 20px;
+    padding:20px;
+    width: 300px;
+ }
+
+ .store-6{
+    margin: 20px;
+    padding:20px;
+    width: 300px;
+ }
+
+ .store-4:hover{
+    border: 5px solid green;
+border-radius: 20px;
+ }
+
+ .store-5:hover{
+    border: 5px solid green;
+border-radius: 20px;
+ }
+
+ .store-6:hover{
+    border: 5px solid #f73636;
+border-radius: 20px;
+ }
+
+ .subscribe{
+    height: 500px;
+    width: 600px;
+    display: flex;
+    margin:0 0 0 420px;
+    background-color: rgba(255, 0, 0, 0.05);
+ }
+
+ .img-letter{
+    height: 159px;
+    width: 150px;
+    margin: 24px 0 0 207px;
+
+ }
+ .subscribe h1{
+    margin: 182px 0px 0px -153px;
+    padding: 10px;
+    font-size: 33px;
+
+ }
+ .news{
+    margin: 283px -60px 0px -310px;
+
+ }
+
+ .subscribe input{
+    margin: 354px 161px 102px 8px;
+ }
+
+ .subscribe span{
+    margin: 363px -19px 67px -152px;
+    color: black;
+    padding: 4px;
+    border: 3px solid;
+    background: red;
+    height: 26px;
+    width: 66px;
+   
+ }
+ .last{
+    height: 329px;
+    width: 908px;
+    background-color: black;
+
+ }
+ .last h1{
+  color: #FFF;
+  width: 520px;
+  text-align: center;
+  padding: 88px 0px 0px 11px;
+
+ }
+ .img-last{
+    color: #FFF;
+    margin: -92px 162px 0px 641px;
+ }
+ .icon{
+    margin:0 0 0 12px;
+ }
+ .finsh{
+    color: #FFF;
+    margin: 33px 0 0 42px;
+ }
+ .finsh .shes{
+    margin: -15px 0px -43px 544px;
+ }
